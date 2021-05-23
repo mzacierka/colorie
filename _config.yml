@@ -1,22 +1,22 @@
-site: Colorie
+site: Mike
 url: 
-author: Colorie
+author: zacierka
 author:
-  name: Colorie
+  name: Zacierka
   email: 
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Mike's Site
+description: Mikes Portfolio 
 logo: 
 image: 
-twitter: ronaldsvilcins  
+twitter: something  
 twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
-  card: summary
+  username: something
+  creator: something
+  card: twitter
 social:
-  name: Ronalds Vilcins
+  name: Mike Zacierka
   links:
     - https://twitter.com/#
     - https://www.dribbble.com/#
@@ -26,7 +26,7 @@ social:
 permalink: pretty
 
 disqus:
-  name: "your disqus username" # required
+  name: "zacierka" # required
   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 baseurl:             ""

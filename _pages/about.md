@@ -3,20 +3,27 @@ layout: page
 title: About
 ---
 
-## Colorie - Single column blog and portfolio Jekyll theme 
+## Mike Zacierka 
 
-Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
+Hi! Im Mike. A Software Engineer interested in IOT / Cloud / Back-end Software. 
 
-### Key features
+### Hobbies
 
-- seo optimized
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
+- Basketball
+- Programming
+- Golf
+- Arduino Projects
+- Running
+
+### Programming Languages
+__Java__
+```java
+   SkillLevel level = new SkillLevel("Advanced");
+```
+__GoLang__
+```golang
+   var level string = "new"
+```
+## Skills
+![Chart](https://i.imgur.com/cSIeULC.png)
+##### Mid Term Mini project  - (Adv) Web Programming Course
